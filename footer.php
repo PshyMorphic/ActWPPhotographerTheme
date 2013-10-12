@@ -33,11 +33,7 @@
         <div class="clear"></div>
     </div><!--//footer-->
     <div class="bottom_footer">
-	©2012-2013 Jan Pool. Circadian is produced by <a href="http://actualiser.co.za">Actualiser</a> using a modified version of the <a href="http://www.dessign.net/photographer-theme/">Photographer</a> theme by <a href="http://www.dessign.net">Dessign.net</a>.
-<!--
-	Copyright 2012. All Rights Reserved. Design & Developed by <a href="http://www.dessign.net">Dessign.net</a>
-	
--->
+	©2012-2013 Jan Pool. Circadian is produced by <a href="http://actualiser.co.za">Actualiser</a> using a <a href="https://github.com/PshyMorphic/ActWPPhotographerTheme">modified</a> version of the <a href="http://www.dessign.net/photographer-theme/">Photographer</a> theme by <a href="http://www.dessign.net">Dessign.net</a>.
 
 </div>
 
